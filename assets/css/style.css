@@ -1,0 +1,57 @@
+
+h1 {   font-family: 'Fredericka the Great', cursive;
+    font-family: 'IM Fell English SC', serif;
+
+}
+
+p {margin-left:10px;
+    font-family: 'Fredericka the Great', cursive;
+    font-family: 'IM Fell English SC', serif;
+font-size:17px;}
+
+#logo {
+    text-align: center;
+    font-family: 'Fredericka the Great', cursive;
+    font-family: 'IM Fell English SC', serif;
+    background-color: white;
+    display: inline;
+    color: white;
+    font-size: 48px;
+    background: url(../images/082448168_iconl.jpeg);
+    padding: 9px;
+    line-height: 2;
+    margin: inherit;
+    margin-left:-21px;
+    /* border-radius: 72px; */
+}
+
+body {
+    background: url(../images/082448168_iconl.jpeg);
+    background-repeat: no-repeat;
+    background-size:  134%;
+
+}
+
+.footer {
+    width: 100%;
+    background-color: white;
+    border-top: 8px solid black;
+    line-height: 100px;
+
+    color: #CCCCCC;
+    text-align: center;
+    margin-bottom:auto;
+}
+
+#mainContent {
+
+    background-color: white;
+    margin-top: 19px;
+    border: 1px solid;
+    margin-bottom: 80px;
+    height:491px;
+}
+
+#footerHelp {
+    margin-bottom: 194px;
+}
